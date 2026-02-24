@@ -62,5 +62,5 @@ Com base nos padrões identificados, são recomendadas as ações:
 - Power BI
 
 ## Dashboard
-Foi criado um dashboard utilizando o Power BI, permitindo a visualização dinâmica dos dados e insights. Ele inclui gráficos de barras, linhas e KPIs para destacar os padrões de uso entre membros e usuários casuais, facilitando a compreensão e a tomada de decisões estratégicas. O dashboard pode ser acessado pelo arquivo `Dashboard_Bike_Share.pbix` presente na pasta do projeto.
+Foi criado um dashboard utilizando o Power BI, permitindo a visualização dinâmica dos dados e insights. Ele inclui gráficos de barras, linhas e KPIs para destacar os padrões de uso entre membros e usuários casuais, facilitando a compreensão e a tomada de decisões estratégicas. O dashboard pode ser acessado pelo link: [Dashboard Cyclistic](https://drive.google.com/file/d/1AlxVgu-nsOofMzyRMZeNhBsKYn-Cwa9k/view?usp=sharing)
 ![img.png](img.png)
